@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<style>
+
+
+</style>
+<body>
+<table width="50%" border="1">
+  <thead>
+    <tr>
+      <caption align=center>Septmeber 2020 </caption>
+    </tr>
+    <tr>
+    <th>Sunday</th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+    <th>Saturday</th>
+  </tr>
+   </thead>
+  <tbody>
+  <tr>
+    <td></td>
+    <td>1st</td>
+    <td>2nd</td>
+    <td>3rd</td>
+    <td>4th</td>
+    <td>5th</td>
+    <td>6th</td>
+  </tr>
+  <tr>
+    <td>7th</td>
+    <td>8th</td>
+    <td>9th</td>
+    <td>10th</td>
+    <td>11th</td>
+    <td>12th</td>
+    <td>13th</td>
+  </tr>
+  <tr>
+    <td>14th</td>
+    <td>15th</td>
+    <td>16th</td>
+    <td>17th</td>
+    <td>18th</td>
+    <td>19th</td>
+    <td>20th</td>
+  </tr>
+  <tr>
+    <td>21st</td>
+    <td>22nd</td>
+    <td>23rd</td>
+    <td>24th</td>
+    <td>25th</td>
+    <td>26th</td>
+    <td>27th</td>
+</tr>
+ <tr>
+    <td>28th</td>
+    <td>29th</td>
+    <td>30th</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+ </tr>
+</tbody>
+</table>
